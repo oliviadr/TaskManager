@@ -1,0 +1,28 @@
+﻿<Window x:Class="TaskOrganiser.Views.EditTDLWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Edit TDL" Height="250" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="Name:" />
+        <TextBox Grid.Row="0" Grid.Column="1" x:Name="NameTextBox" />
+
+        <Label Grid.Row="1" Grid.Column="0" Content="Image:" />
+        <Image Grid.Row="1" Grid.Column="1" x:Name="TDLImage" Source="{Binding ImagePath, UpdateSourceTrigger=PropertyChanged}" Width="100" Height="50" />
+
+        <Label Grid.Row="2" Grid.Column="0" Content="Select Image:" />
+        <ComboBox Grid.Row="2" Grid.Column="1" x:Name="ImageComboBox" SelectionChanged="ImageComboBox_SelectionChanged" />
+
+        <Button Grid.Row="3" Grid.Column="1" Content="Save" Click="SaveButtonClicked" />
+    </Grid>
+</Window>

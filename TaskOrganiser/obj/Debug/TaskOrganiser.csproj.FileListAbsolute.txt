@@ -1,0 +1,114 @@
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\bin\Debug\TaskOrganiser.exe.config
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\bin\Debug\TaskOrganiser.exe
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\bin\Debug\TaskOrganiser.pdb
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.AssemblyReference.cache
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.SuggestedBindingRedirects.cache
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\MainWindow.g.cs
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\App.g.cs
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\TaskOrganiser_MarkupCompile.cache
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\TaskOrganiser_MarkupCompile.lref
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\MainWindow.baml
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\TaskOrganiser.g.resources
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\TaskOrganiser.Properties.Resources.resources
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.GenerateResource.cache
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.CoreCompileInputs.cache
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\TaskOrganiser.exe
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\TaskOrganiser.pdb
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\Views\AddTaskWindow.g.cs
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\Views\EditTaskWindow.g.cs
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\Views\AddTaskWindow.baml
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\Views\EditTaskWindow.baml
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\Views\FindTaskWindow.g.cs
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\TaskOrganiser\obj\Debug\Views\FindTaskWindow.baml
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\bin\Debug\TaskOrganiser.exe.config
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\bin\Debug\TaskOrganiser.exe
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\bin\Debug\TaskOrganiser.pdb
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\Views\AddTaskWindow.g.cs
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\Views\EditTaskWindow.g.cs
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\Views\FindTaskWindow.g.cs
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\TaskOrganiser_MarkupCompile.cache
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\TaskOrganiser_MarkupCompile.lref
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\Views\AddTaskWindow.baml
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\Views\EditTaskWindow.baml
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\Views\FindTaskWindow.baml
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\TaskOrganiser.g.resources
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\TaskOrganiser.Properties.Resources.resources
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\TaskOrganiser.exe
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\TaskOrganiser.pdb
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\Views\AddTDLWindow.g.cs
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\Views\AddTDLWindow.baml
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\Views\AddSubTDLWindow.g.cs
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\Views\AddSubTDLWindow.baml
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\Views\EditTDLWindow.g.cs
+C:\Users\User\Desktop\Temafinala\TaskOrganiser\obj\Debug\Views\EditTDLWindow.baml
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\bin\Debug\TaskOrganiser.exe.config
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\bin\Debug\TaskOrganiser.exe
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\bin\Debug\TaskOrganiser.pdb
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.AssemblyReference.cache
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.SuggestedBindingRedirects.cache
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\EditTDLWindow.baml
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\AddSubTDLWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\AddTaskWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\AddTDLWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\EditTaskWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\MainWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\EditTDLWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\FindTaskWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\App.g.cs
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\TaskOrganiser_MarkupCompile.cache
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\TaskOrganiser_MarkupCompile.lref
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\AddSubTDLWindow.baml
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\AddTaskWindow.baml
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\AddTDLWindow.baml
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\EditTaskWindow.baml
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\MainWindow.baml
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\FindTaskWindow.baml
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\TaskOrganiser.g.resources
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\TaskOrganiser.Properties.Resources.resources
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.GenerateResource.cache
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.CoreCompileInputs.cache
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\TaskOrganiser.exe
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\TaskOrganiser.pdb
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\SelectTDLWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\TaskOrganiser\obj\Debug\Views\SelectTDLWindow.baml
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\bin\Debug\TaskOrganiser.exe.config
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\bin\Debug\TaskOrganiser.exe
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\bin\Debug\TaskOrganiser.pdb
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.AssemblyReference.cache
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.SuggestedBindingRedirects.cache
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\EditTDLWindow.baml
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\AddSubTDLWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\AddTaskWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\AddTDLWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\EditTaskWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\MainWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\EditTDLWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\FindTaskWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\SelectTDLWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\App.g.cs
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\TaskOrganiser_MarkupCompile.cache
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\TaskOrganiser_MarkupCompile.lref
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\AddSubTDLWindow.baml
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\AddTaskWindow.baml
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\AddTDLWindow.baml
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\EditTaskWindow.baml
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\MainWindow.baml
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\FindTaskWindow.baml
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\Views\SelectTDLWindow.baml
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\TaskOrganiser.g.resources
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\TaskOrganiser.Properties.Resources.resources
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.GenerateResource.cache
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\TaskOrganiser.csproj.CoreCompileInputs.cache
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\TaskOrganiser.exe
+C:\Users\olivia\OneDrive\Desktop\ghfdh\TaskOrganiser\obj\Debug\TaskOrganiser.pdb
